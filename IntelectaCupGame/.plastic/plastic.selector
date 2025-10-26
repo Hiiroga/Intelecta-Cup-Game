@@ -1,0 +1,4 @@
+repository "Gemastik/IntelectaCupGame@18967801751561@cloud"
+  path "/"
+    br "/main"
+    co "/main"
